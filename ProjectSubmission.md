@@ -124,17 +124,16 @@
 Vivi combines the power of blockchain, decentralized storage, and innovative voice-first features to redefine community-driven content platforms for the Web3 era.
 
 ### Source Code Link:
-[[GitHub repository URL where your project code is hosted](https://github.com/KaushikKC/Vivi)]
+[[GitHub repository URL](https://github.com/KaushikKC/Vivi)]
 
-### Preview Link (Optional):
-[[Live Demo preview URL](https://vivi-lens-app.vercel.app/)]
+### Preview Link:
+[[Live Hosted preview URL](https://vivi-lens-app.vercel.app/)]
 
-### Demo Video/Slide Deck Link (Optional):
+### Demo Video/Slide Deck Link:
 [[Demo preview](https://youtu.be/amkmscUommw))]
 
 
-### Screenshots (Optional):
-[Add screenshots of your application here. Use markdown image syntax:]
+### Screenshots:
 
 <img width="1465" alt="Screenshot 2025-01-05 at 10 29 54 PM" src="https://github.com/user-attachments/assets/ecd69e63-8705-4bd4-812c-c213b242bd4b" />
 <img width="1468" alt="Screenshot 2025-01-05 at 10 31 06 PM" src="https://github.com/user-attachments/assets/420d095e-044f-4c21-ba3b-db1978840835" />
