@@ -131,6 +131,7 @@ Vivi combines the power of blockchain, decentralized storage, and innovative voi
 
 ### Demo Video/Slide Deck Link:
 [[Demo preview](https://youtu.be/amkmscUommw))]
+[[Slide Deck](https://docs.google.com/presentation/d/1QGEJqt-f_Cxfnz8b7nH_dP9S34o_aYBtHsaHplBem0c/edit?usp=sharing))]
 
 
 ### Screenshots:
