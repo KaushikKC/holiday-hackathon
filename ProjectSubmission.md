@@ -125,6 +125,7 @@ Vivi combines the power of blockchain, decentralized storage, and innovative voi
 
 ### Source Code Link:
 [[GitHub repository URL](https://github.com/KaushikKC/Vivi)]
+[[Contract Address: 0xad88B69d28Ce077b68FE503E19a9c5183aa0928F](https://block-explorer.testnet.lens.dev/address/0xad88B69d28Ce077b68FE503E19a9c5183aa0928F)]
 
 ### Preview Link:
 [[Live Hosted preview URL](https://vivi-lens-app.vercel.app/)]
